@@ -1,0 +1,18 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "idf.adapterTargetName": "esp32c3",
+    "idf.customExtraPaths": "/Users/khaledmohamedali/esp/.espressif/tools/xtensa-esp-elf-gdb/11.2_20220823/xtensa-esp-elf-gdb/bin:/Users/khaledmohamedali/esp/.espressif/tools/riscv32-esp-elf-gdb/11.2_20220823/riscv32-esp-elf-gdb/bin:/Users/khaledmohamedali/esp/.espressif/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/bin:/Users/khaledmohamedali/esp/.espressif/tools/xtensa-esp32s2-elf/esp-2022r1-11.2.0/xtensa-esp32s2-elf/bin:/Users/khaledmohamedali/esp/.espressif/tools/xtensa-esp32s3-elf/esp-2022r1-11.2.0/xtensa-esp32s3-elf/bin:/Users/khaledmohamedali/esp/.espressif/tools/riscv32-esp-elf/esp-2022r1-11.2.0/riscv32-esp-elf/bin:/Users/khaledmohamedali/esp/.espressif/tools/esp32ulp-elf/2.35_20220830/esp32ulp-elf/bin:/Users/khaledmohamedali/esp/.espressif/tools/cmake/3.24.0/CMake.app/Contents/bin:/Users/khaledmohamedali/esp/.espressif/tools/openocd-esp32/v0.11.0-esp32-20221026/openocd-esp32/bin:/Users/khaledmohamedali/esp/.espressif/tools/ninja/1.10.2:/Users/khaledmohamedali/esp/.espressif/tools/esp-rom-elfs/20220823",
+    "idf.customExtraVars": {
+        "OPENOCD_SCRIPTS": "/Users/khaledmohamedali/esp/.espressif/tools/openocd-esp32/v0.11.0-esp32-20221026/openocd-esp32/share/openocd/scripts",
+        "ESP_ROM_ELF_DIR": "/Users/khaledmohamedali/esp/.espressif/tools/esp-rom-elfs/20220823/"
+    },
+    "idf.espIdfPath": "/Users/khaledmohamedali/esp/esp-idf",
+    "idf.openOcdConfigs": [
+        "interface/ftdi/esp32_devkitj_v1.cfg",
+        "target/esp32.cfg"
+    ],
+    "idf.port": "/dev/cu.usbserial-140",
+    "idf.pythonBinPath": "/Users/khaledmohamedali/esp/.espressif/python_env/idf5.0_py3.9_env/bin/python",
+    "idf.toolsPath": "/Users/khaledmohamedali/esp/.espressif",
+    "idf.flashType": "UART"
+}
